@@ -5,3 +5,4 @@ Control de versiones
 Modificando TXT
 Modificando TXT II
 Agregando nueva linea desde la web
+Agregando nueva linea desde local
